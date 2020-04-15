@@ -1,0 +1,21 @@
+﻿@model Aula02.Models.RandomFilmeViewModel
+
+@{
+    ViewBag.Title = "Random";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    var className = Model.Clientes.Count > 1 ? "hot" : null;
+}
+<h3 class="@className">@Model.Filme.Name</h3>
+@if(Model.Clientes.Count == 0)
+{
+    <p>Sem clientes, irmão...</p>
+}
+<ul>
+@foreach (var cliente in Model.Clientes)
+{
+    <li>@cliente.Name</li>
+}
+</ul>

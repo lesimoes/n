@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{07E9B339-0B10-4460-A699-414F87ABE55D}|">
+  <MonoDevelop.Ide.ItemProperties.Aula02 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Aula02/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="Aula02/Controllers/FilmesController.cs" Line="22" Column="53" />
+      <File FileName="Aula02/Models/RandomFilmeViewModel.cs" Line="1" Column="1" />
+      <File FileName="Aula02/Views/Filmes/Random.cshtml" Line="9" Column="52" />
+      <File FileName="Aula02/Views/Shared/_Layout.cshtml" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Aula02" expanded="True">
+            <Node name="Aula02" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Filmes" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
